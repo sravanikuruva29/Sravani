@@ -166,14 +166,12 @@ Reports
 📬 Contact:
 
 For queries or collaboration:
-📧 Email: sravanikuruva29@gmail.com
+📧 Email: sravanikuruva2923@gmail.com
 
 
 ⭐ Acknowledgment:
-
 Thanks to open-source libraries and research in computer vision and deep learning.
 
 
 ⭐ If you like this project:
-
 Give a ⭐ on GitHub!

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Pakistani-Number-plates - v1 2023-09-13 4-02pm']
+
+roboflow:
+  workspace: personal-workspace-um6bj
+  project: license-plate-ocr-oictb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/personal-workspace-um6bj/license-plate-ocr-oictb/dataset/1

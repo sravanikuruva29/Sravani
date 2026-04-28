@@ -1,0 +1,9 @@
+path: merged_dataset
+train: train/images
+val: valid/images
+
+nc: 3
+names:
+  0: helmet
+  1: no_helmet
+  2: number_plate

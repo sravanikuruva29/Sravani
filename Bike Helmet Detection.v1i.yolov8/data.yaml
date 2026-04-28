@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
+
+roboflow:
+  workspace: sravanis-workspace
+  project: bike-helmet-detection-2vdjo-9n2oh-9zzs0
+  version: 1
+  license: Public Domain
+  url: https://app.roboflow.com/sravanis-workspace/bike-helmet-detection-2vdjo-9n2oh-9zzs0/1

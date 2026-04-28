@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['number_plate']
+
+roboflow:
+  workspace: datacluster-labs-agryi
+  project: indian-number-plates-9oobq
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/datacluster-labs-agryi/indian-number-plates-9oobq/dataset/7
